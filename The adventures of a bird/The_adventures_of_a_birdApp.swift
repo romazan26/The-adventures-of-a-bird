@@ -11,7 +11,7 @@ import SwiftUI
 struct The_adventures_of_a_birdApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GameView()
         }
     }
 }
